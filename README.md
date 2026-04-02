@@ -84,5 +84,8 @@ con los siguientes nombres exactos:
 - ✅ Parallax de estrellas con el movimiento del mouse
 - ✅ Totalmente responsive (mobile, tablet, desktop)
 - ✅ Google Fonts: Cinzel Decorative + Lato
+<<<<<<< HEAD
 # saint-seiya
 # saint-seiya
+=======
+>>>>>>> afccac4 (Primer commit con archivos HTML)
